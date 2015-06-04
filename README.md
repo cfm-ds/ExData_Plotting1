@@ -1,3 +1,10 @@
+## Purpose
+Solution to assignment 1 in Exploratory Data Analysis. Code is only tested on Mac OS X, given the assignment's focus on the activity of data analysis through plotting.
+
+Each of the four plotting files are self-contained, no cross-script reuse of code was done to keep all scripts self-contained in one file. 
+
+The assignment is reproduced below for reference. 
+
 ## Introduction
 
 This assignment uses data from
